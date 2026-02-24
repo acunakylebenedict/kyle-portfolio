@@ -3,6 +3,7 @@ import { Menu, X, Mail, Phone, MapPin, Facebook, Linkedin, Clipboard, Check } fr
 import React, { useState, useEffect, useRef } from "react";
 
 const navLinks = [
+  { href: "#hero", label: "Hero" },
   { href: "#about", label: "About" },
   { href: "#education", label: "Education" },
   { href: "#experience", label: "Experience" },
