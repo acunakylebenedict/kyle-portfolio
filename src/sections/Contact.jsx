@@ -39,7 +39,7 @@ const contactInfo = [
 export const Contact = () => {
   return (
     <section id="contact" className="py-32 relative overflow-hidden">
-      <div className="container mx-auto px-6 relative z-10">
+        <div className="container mx-auto px-6 relative z-10">
 
         {/* Section Header */}
         <div className="text-center max-w-3xl mx-auto mb-16">

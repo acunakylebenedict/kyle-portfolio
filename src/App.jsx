@@ -50,9 +50,9 @@ function App() {
       <main>
         <Hero />
         <About />
+         <Experience />
+         <Projects />
         <Education />
-        <Experience />
-        <Projects />
         <Contact />
       </main>
     </div>
