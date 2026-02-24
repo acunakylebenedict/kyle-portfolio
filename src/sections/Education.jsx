@@ -1,11 +1,5 @@
 const educations = [
   {
-    School: "Pagsanjan Academy",
-    Year_level: "Kinder to Preparatory",
-    Year: "2005 - 2007",
-    Description: "Still a kid just learning to get along with others, I'm very shy at this age."
-  },
-  {
     School: "Liceo De Pagsanjan",
     Year_level: "Elementary to Junior High",
     Year: "2007 - 2017",
