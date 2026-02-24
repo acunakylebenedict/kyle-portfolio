@@ -1,4 +1,4 @@
-import { Button } from "@/components/Button";
+import { Button } from "@/Components/Button";
 import { Menu, X, Mail, Phone, MapPin, Facebook, Linkedin, Clipboard, Check } from "lucide-react";
 import React, { useState, useEffect, useRef } from "react";
 
